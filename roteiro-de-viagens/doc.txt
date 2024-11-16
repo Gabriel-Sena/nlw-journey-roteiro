@@ -1,0 +1,22 @@
+Fases da resolução de um problema
+1 - Coletar dados
+2 - Processar os dados 
+3 - Apresentar os dados
+
+// Variáveis
+const mensagem = "Boa Noite"
+
+// Tipos de dados
+    //string: "", '', ´´
+    //number: 2, 5.6
+
+//Função: conjeunto de código
+alert(mensagem)
+
+sempre que algum elemento tiver . ele é considerado objeto
+
+-um objeto no JS sempre é composto por uma propiedade e um valor
+-ex de objeto
+nome (propiedade): "Almoço" (qualquer tipo de dado),
+-${}: interpolação ou troca, serve para acessar uma propiedade do objeto
+
